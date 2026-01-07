@@ -1,0 +1,17 @@
+{
+  "mail_api": "https://api.incognitomail.co",
+  "mail_verify_method": "browser",
+  "notify": true,
+  "check_ratelimit": true,
+  "password": "zxcppp000pppzxZ2@c123",
+  "proxies": true,
+  "groq_api_key": "",
+  "model": "llama-3.3-70b-versatile",
+  "headless": true,
+  "use_ai_solver": true,
+  "max_tokens": 1280,
+  "temperature": 0.95,
+  "accounts_per_thread": 0,
+  "max_threads": 1,
+  "humanize": false
+}
